@@ -310,7 +310,6 @@ To test our newly-created class out, let's use the rake task `rake console` (or
 ### Try Out The Following:
 
 Check that the class exists:
-
 ```ruby
 Artist
 # => Artist (call 'Artist.connection' to establish a connection)
